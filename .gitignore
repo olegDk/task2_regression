@@ -1,0 +1,5 @@
+train.csv
+hidden_test.csv
+model.txt
+__pycache__/
+.ipynb_checkpoints/
